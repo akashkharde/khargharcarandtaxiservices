@@ -8,7 +8,7 @@ import gmail from '../../Assets/images/mail-logo.png'
 
 
 export default function Footer() {
-    const phoneNumber = '7719832542';
+    const phoneNumber = '8888198469';
 
     const handleCallButtonClick = () => {
       window.location.href = `tel:${phoneNumber}`;

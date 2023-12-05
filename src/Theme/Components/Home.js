@@ -13,7 +13,7 @@ function Home() {
     ref.current.scrollIntoView({ behavior: 'smooth' });
   }, [location.pathname]);
 
-  const phoneNumber = '+91 7719832542';
+  const phoneNumber = '+91 8888198469';
 
   const handleCallButtonClick = () => {
     window.location.href = `tel:${phoneNumber}`;
